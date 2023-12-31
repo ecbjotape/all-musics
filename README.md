@@ -1,4 +1,4 @@
-# Título do Seu Projeto
+# ALL MUSICS
 
 ## Descrição
 Este projeto é uma aplicação Vue.js que integra as APIs do YouTube e Spotify para acessar e reproduzir listas de reprodução do usuário.
