@@ -19,7 +19,7 @@ npm install
 
 ## Configure as variáveis de ambiente:
 
-## Crie um arquivo .env.local na raiz do projeto e adicione suas credenciais:
+Crie um arquivo .env.local na raiz do projeto e adicione suas credenciais:
 VUE_APP_YOUTUBE_CLIENT_ID=SEU_CLIENT_ID_DO_YOUTUBE
 VUE_APP_YOUTUBE_AUTH_URL=URL_DE_AUTORIZACAO_DO_YOUTUBE
 VUE_APP_YOUTUBE_REDIRECT_URI=URL_DE_RETORNO_DO_SEU_APLICATIVO
